@@ -173,7 +173,7 @@ main {
 }
 
 .site-footer a {
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
     transition: color 0.3s;
 }
